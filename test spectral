@@ -1,0 +1,10 @@
+export const environment = {
+  production: false,
+  firebaseConfig : {
+    apiKey: "AIzaSyBk383rMQbyYDZZpqY3yxcsYiqtIJbWIlw",
+    authDomain: "dpig-logistic.firebaseapp.com",
+    projectId: "dpig-logistic",
+    storageBucket: "dpig-logistic.appspot.com",
+    messagingSenderId: "378868996675",
+    appId: "1:378868996675:web:136f75559558592959d2f6",
+    measurementId: "G-KV0J0B66WZ"
